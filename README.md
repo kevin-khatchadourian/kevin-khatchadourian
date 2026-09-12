@@ -18,7 +18,7 @@
 </p>
  <p align="center">─ ⋅ ⋅ ⋅ ──── ♡ ─── ⋅ ⋅ ⋅ ──
 <p align="center">
- <img src="https://64.media.tumblr.com/8e9910cb615d740ad4b03abf712f755e/7084108b92d42aa7-13/s2048x3072/e721f403cd7f21edd2e72faa1d7859351776035c.pnj" width="600"/>## Hi there 👋
+ <img src="https://64.media.tumblr.com/8e9910cb615d740ad4b03abf712f755e/7084108b92d42aa7-13/s2048x3072/e721f403cd7f21edd2e72faa1d7859351776035c.pnj" width="600"/>
 
 <!--
 **kevin-khatchadourian/kevin-khatchadourian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
